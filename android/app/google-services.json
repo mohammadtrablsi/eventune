@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076675689430",
+    "project_id": "Eventuneunversity",
+    "storage_bucket": "Eventuneunversity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076675689430:android:76c8e089a44bce3f9f4277",
+        "android_client_info": {
+          "package_name": "com.example.Eventune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076675689430-bu1pvjj5rlv5kip1ftjb2qh9nn4r8tti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjdc-h3Uyp6iQxPAKXWg8A7P3JnYdVdvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076675689430-bu1pvjj5rlv5kip1ftjb2qh9nn4r8tti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
